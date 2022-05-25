@@ -1,0 +1,108 @@
+/* IMPOSTAZIONI GENERALI */
+body{
+    width: 450px;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+  header h1, h2 {
+     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+ }
+ 
+
+
+a{
+    color:red}
+header{
+    background-color: #00A0C6;
+    padding: 10px;
+    border-bottom: solid#027794;
+}
+
+
+
+.h1 {
+    font-weight: 20%;
+    line-height: 5%;
+}
+   
+span{
+    background-color:white;
+    color:#00A0C6;
+    width: 100px;
+}
+header h2{
+    
+    font-size: Arial, Helvetica, sans-serif;
+    padding-top: 10%;
+}
+     
+    
+/* MAIN */
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size:auto;
+    
+}
+  main hr {
+      border: #00A0C6;
+  }
+   main div{
+       text-align: center;
+   }
+main h2 {
+    padding-top: 6%;
+    padding-bottom: 10%;
+    color: #027794;
+    
+}
+
+main mark{
+    background-color: #027794;
+    color:white
+}
+   
+
+main figure img{
+    border: 10px solid #00A0C6;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:10px;
+}
+
+main figure figcaption{
+    text-align: center;
+}
+main p{
+    text-align: left;
+    font-size: bold;
+    
+}
+main blockquote{
+    display: block;
+    text-align: center;
+    font: size 1.1em;
+    margin: 20px 10px 20px 10px;
+    pudding:20px 10px 20px 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-style: italic;
+}
+#address{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div h2{
+    margin: auto;
+}
+/* ELEMENTI NEL MAIN */
+
+/* FOOTER */
+/*azzurro #00A0C6
+azzurro + scuro #027794
+font dei titoli -> Raleway
+Font generico -> Arial 
+Bordo tratteggiato -> dashed
+<abbr>*/
